@@ -7,7 +7,7 @@ import (
 	"time"
 
 	_ "github.com/gin-gonic/gin"
-	"github.com/h0ldnack/journalDandy/lib"
+	jd "github.com/h0ldnack/journalDandy/src/lib"
 )
 
 ////////////////////////////////////////////////////////////////////////////////
