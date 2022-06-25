@@ -1,0 +1,25 @@
+* Features Checklist
+- [ ] Core Lib
+  - [ ] Add funcs [0%]
+	- [ ] Entry
+	- [ ] Daily
+	- [ ] Theme
+	- [ ] Aesthetic
+  - [ ] View [0%]
+	- [ ] All
+	- [ ] Filtered [0%]
+	  - [ ] By Date
+	  - [ ] By Theme
+	  - [ ] By Aesthetic
+  - [ ] DB
+  - [ ] Metadata
+	- [ ] Active Theme(s)
+	- [ ] Active Aesthetics
+- [ ] Web Lib
+  - [ ] Forms [0%]
+	- [ ] API
+	- [ ] HTML
+	- [ ] CSS
+	- [ ] Validitor
+- [ ] Cli Lib
+
